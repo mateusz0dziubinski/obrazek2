@@ -8,4 +8,5 @@ body{
   background: url(images/Obrazek.jpg);
   background-repeat: no-repeat;
   background-size: auto;
+  background-size: cover;
 }
